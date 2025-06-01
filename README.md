@@ -8,7 +8,7 @@ This repository contains a Python implementation of the classic **Puissance 4** 
 
 Below is a visual of the standard Puissance 4 board layout:
 
-![Puissance 4 Board](puissance.png)
+![Puissance 4 Board](images/puissance.png)
 
 ## 📝 Project Overview
 
